@@ -1,0 +1,24 @@
+{
+  "name": "message-send-box",
+  "version": "1.0.0",
+  "description": "create message send box, with proper validations and add multiple recippients in pills/tags",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "classnames": "2.2.6",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "react-tagging-input": "2.1.2",
+    "react-transition-group": "2.4.0",
+    "reactjs-popup": "1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
